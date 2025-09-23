@@ -10,7 +10,7 @@ void main(){
    do{
     num1 += 5;
     print(num1);
-   }while(num1<20);
+   }while(num1<10);
     print('exit Do while loop');
    
 }
